@@ -62,4 +62,3 @@
 ## Let's connect
 
 I'm always happy to talk about medical AI, federated learning or ML engineering roles.
-📧 [naufal.bin.nujaimin.r1@dc.tohoku.ac.jp](mailto:naufal.bin.nujaimin.r1@dc.tohoku.ac.jp) · 💼 [LinkedIn](https://www.linkedin.com/in/naufalnujaimin)
