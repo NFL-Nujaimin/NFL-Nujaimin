@@ -15,7 +15,7 @@
 
 ## About me
 
-- 🎓 **Master's student in Information Sciences** at Tohoku University (MEXT Scholar), in Prof. Kuribayashi's lab. My research makes federated learning for mammography diagnosis more **explainable and trustworthy**, so hospitals can train together without sharing patient data.
+- 🎓 **Master's student in Information Sciences** at Tohoku University. My research focus federated learning for mammography diagnosis more **explainable and trustworthy**, so hospitals can train together without sharing patient data.
 - 💻 **1.5 years as a full-stack web developer** at Willowglen, building and extending industrial software products (Sep 2024 – Mar 2026).
 - 🤖 **AI software engineer (freelance)** at IntelliLabs AI, building AI-powered software for clients (2024 – 2025).
 - 🔧 **Software engineering intern** at NXP Malaysia, where I led an internal calibration system and equipment monitoring dashboards.
