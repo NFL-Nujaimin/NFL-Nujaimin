@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  🔬 <b>Master’s in Information Sciences Student</b> at Tohoku University<br>
+  🎓 <b>Master’s student in Information Sciences</b> at Tohoku University<br>
   💼 Open to <b>ML Engineer</b>, <b>Research Engineer</b> and <b>AI Research Intern</b> roles · Japan · Malaysia · Remote
 </p>
 
@@ -15,7 +15,7 @@
 
 ## About me
 
-- 🎓 **Master's student in Information Sciences** at Tohoku University. My research focus federated learning for mammography diagnosis more **explainable and trustworthy**, so hospitals can train together without sharing patient data.
+- 🔬 **Research at Tohoku University:** making federated learning for mammography diagnosis more **explainable and trustworthy**, so hospitals can train models together without sharing patient data.
 - 💻 **1.5 years as a full-stack web developer** at Willowglen, building and extending industrial software products (Sep 2024 – Mar 2026).
 - 🤖 **AI software engineer (freelance)** at IntelliLabs AI, building AI-powered software for clients (2024 – 2025).
 - 🔧 **Software engineering intern** at NXP Malaysia, where I led an internal calibration system and equipment monitoring dashboards.
@@ -58,7 +58,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
   <img alt="Tech stack: Python, PyTorch, TensorFlow, Keras, scikit-learn, pandas, NumPy, Jupyter, Flower, FedAvg/FedProx, Captum, Grad-CAM, Integrated Gradients, SHAP, TypeScript, JavaScript, React, Next.js, Node.js, Express, Laravel, PHP, Flutter, REST APIs, MySQL, MongoDB, Firebase, Git, Docker, Linux, Power BI" src="assets/tech-stack-light.svg" width="100%">
 </picture>
-
-## Let's connect
-
-I'm always happy to talk about medical AI, federated learning or ML engineering roles.
