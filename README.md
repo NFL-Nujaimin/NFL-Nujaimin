@@ -58,8 +58,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
   <img alt="Tech stack: Python, PyTorch, TensorFlow, Keras, scikit-learn, pandas, NumPy, Jupyter, Flower, FedAvg/FedProx, Captum, Grad-CAM, Integrated Gradients, SHAP, TypeScript, JavaScript, React, Next.js, Node.js, Express, Laravel, PHP, Flutter, REST APIs, MySQL, MongoDB, Firebase, Git, Docker, Linux, Power BI" src="assets/tech-stack-light.svg" width="100%">
 </picture>
-
-## Let's connect
-
-I'm always happy to talk about medical AI, federated learning or ML engineering roles.
-💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/naufalnujaimin)
