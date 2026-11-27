@@ -1,20 +1,64 @@
-# 💫 About Me:
-Hi there, I'm Naufal (Nao) 👋<br><br>I'm a Software Engineer and AI Research Student currently studying at Tohoku University, Japan.<br><br>My passion lies at the intersection of Artificial Intelligence, Machine Learning and Software Engineering, where I enjoy building intelligent systems that solve real-world problems.<br><br>### 🔬 Current Interests<br><br>* 🤖 Artificial Intelligence & Machine Learning<br>* 🧠 Explainable AI (XAI)<br>* 🔐 Federated Learning<br><br>### 🚀 Current Projects<br><br>* AI-powered mammography analysis using Explainable AI<br>* Privacy-preserving healthcare AI with Federated Learning<br>* Intelligent software systems for real-world applications<br><br>### 🌱 Currently Learning<br><br>* Large Language Models (LLMs)<br>* Federated learning<br>* Explainable AI (XAI)<br>* ResNet Model<br><br>### 🎯 Outside of Coding<br><br>When I'm not coding or researching, you'll probably find me:<br><br>* 🏃 Running<br>* 🇯🇵 Learning Japanese<br>* ☕ Exploring cafés around Japan<br><br>> Building technology that is intelligent, explainable, and beneficial for society.<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Naufal Nujaimin · ML Engineer & AI Researcher · Full-Stack Developer" src="assets/banner-light.svg" width="100%">
+</picture>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NFL-Nujaimin&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=NFL-Nujaimin&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NFL-Nujaimin&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  🔬 <b>Master’s in Information Sciences Student</b> at Tohoku University<br>
+  💼 Open to <b>ML Engineer</b>, <b>Research Engineer</b> and <b>AI Research Intern</b> roles · Japan · Malaysia · Remote
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NFL-Nujaimin&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="mailto:naufal.bin.nujaimin.r1@dc.tohoku.ac.jp"><img alt="Email" src="https://img.shields.io/badge/Email-0F172A?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/naufalnujaimin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NFL-Nujaimin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## About me
 
----
-[![](https://komarev.com/ghpvc/?username=NFL-Nujaimin&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🎓 **Master's student in Information Sciences** at Tohoku University. My research focus federated learning for mammography diagnosis more **explainable and trustworthy**, so hospitals can train together without sharing patient data.
+- 💻 **1.5 years as a full-stack web developer** at Willowglen, building and extending industrial software products (Sep 2024 – Mar 2026).
+- 🤖 **AI software engineer (freelance)** at IntelliLabs AI, building AI-powered software for clients (2024 – 2025).
+- 🔧 **Software engineering intern** at NXP Malaysia, where I led an internal calibration system and equipment monitoring dashboards.
+- 🏆 **Champion, ImagineHack 2024** ("Gen-AI for Global Goals"): an AI-assisted project management system.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NFL-Nujaimin/Sentiment-Analysis-of-IOI-Restaurant-Review">💬 Restaurant review sentiment analysis</a></h3>
+      End-to-end NLP pipeline: scraped 2,500+ Google reviews, then sentiment classification (TextBlob vs VADER, 80% accuracy), LDA topic modelling and a Power BI dashboard.<br><br>
+      <code>Python</code> <code>NLTK</code> <code>scikit-learn</code> <code>Selenium</code> <code>Power BI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NFL-Nujaimin/Forecasting-using-Machine-Learning-Algorithm">🚆 Transit ridership forecasting</a></h3>
+      Forecasts daily Klang Valley public transport ridership from Malaysian open data, comparing linear regression with a Keras neural network.<br><br>
+      <code>Python</code> <code>TensorFlow/Keras</code> <code>scikit-learn</code> <code>pandas</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NFL-Nujaimin/newspaper-delivery">🗞️ Newspaper delivery app</a></h3>
+      Offline-first PWA built for real delivery routes: map navigation, route progress and on-device data only. <a href="https://nfl-nujaimin.github.io/newspaper-delivery/">Live demo</a><br><br>
+      <code>JavaScript</code> <code>PWA</code> <code>Service Worker</code> <code>Leaflet</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NFL-Nujaimin/ActiveTen-Mobile-Application">🏃 ActiveTen fitness app</a></h3>
+      Cross-platform mobile app for 10-minute workouts, with progress tracking and calorie estimates.<br><br>
+      <code>C#</code> <code>.NET MAUI</code> <code>Firebase</code>
+    </td>
+  </tr>
+</table>
+
+**🚧 Currently building:** a federated learning benchmark (Flower + PyTorch, FedAvg vs FedProx on non-IID medical images) and an explainable chest X-ray classifier (Grad-CAM vs Integrated Gradients, with a live demo).
+
+## Tech stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
+  <img alt="Tech stack: Python, PyTorch, TensorFlow, Keras, scikit-learn, pandas, NumPy, Jupyter, Flower, FedAvg/FedProx, Captum, Grad-CAM, Integrated Gradients, SHAP, TypeScript, JavaScript, React, Next.js, Node.js, Express, Laravel, PHP, Flutter, REST APIs, MySQL, MongoDB, Firebase, Git, Docker, Linux, Power BI" src="assets/tech-stack-light.svg" width="100%">
+</picture>
+
+## Let's connect
+
+I'm always happy to talk about medical AI, federated learning or ML engineering roles.

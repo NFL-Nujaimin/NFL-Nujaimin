@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-label="Tech stack">
+<rect width="960" height="320" rx="14" fill="#0b1220" stroke="#334155"/>
+<text x="24" y="38" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#2dd4bf">AI / ML</text>
+<rect x="24" y="50" width="70" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="59.0" y="67.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Python</text>
+<rect x="102" y="50" width="79" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="141.5" y="67.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">PyTorch</text>
+<rect x="189" y="50" width="101" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="239.5" y="67.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">TensorFlow</text>
+<rect x="298" y="50" width="62" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="329.0" y="67.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Keras</text>
+<rect x="368" y="50" width="97" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="416.5" y="67.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">scikit-learn</text>
+<rect x="473" y="50" width="71" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="508.5" y="67.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">pandas</text>
+<rect x="552" y="50" width="71" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="587.5" y="67.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">NumPy</text>
+<rect x="631" y="50" width="74" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="668.0" y="67.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Jupyter</text>
+<text x="24" y="112" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#2dd4bf">FEDERATED &amp; EXPLAINABLE AI</text>
+<rect x="24" y="124" width="70" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="59.0" y="141.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Flower</text>
+<rect x="102" y="124" width="138" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="171.0" y="141.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">FedAvg / FedProx</text>
+<rect x="248" y="124" width="73" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="284.5" y="141.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Captum</text>
+<rect x="329" y="124" width="88" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="373.0" y="141.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Grad-CAM</text>
+<rect x="425" y="124" width="150" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="500.0" y="141.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Integrated Gradients</text>
+<rect x="583" y="124" width="63" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="614.5" y="141.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">SHAP</text>
+<text x="24" y="186" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#2dd4bf">SOFTWARE ENGINEERING</text>
+<rect x="24" y="198" width="94" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="71.0" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">TypeScript</text>
+<rect x="126" y="198" width="94" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="173.0" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">JavaScript</text>
+<rect x="228" y="198" width="62" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="259.0" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">React</text>
+<rect x="298" y="198" width="71" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="333.5" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Next.js</text>
+<rect x="377" y="198" width="74" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="414.0" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Node.js</text>
+<rect x="459" y="198" width="77" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="497.5" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Express</text>
+<rect x="544" y="198" width="74" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="581.0" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Laravel</text>
+<rect x="626" y="198" width="54" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="653.0" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">PHP</text>
+<rect x="688" y="198" width="68" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="722.0" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Flutter</text>
+<rect x="764" y="198" width="96" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="812.0" y="215.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">REST APIs</text>
+<text x="24" y="260" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#2dd4bf">DATA &amp; TOOLS</text>
+<rect x="24" y="272" width="72" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="60.0" y="289.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">MySQL</text>
+<rect x="104" y="272" width="85" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="146.5" y="289.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">MongoDB</text>
+<rect x="197" y="272" width="81" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="237.5" y="289.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Firebase</text>
+<rect x="286" y="272" width="45" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="308.5" y="289.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Git</text>
+<rect x="339" y="272" width="70" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="374.0" y="289.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Docker</text>
+<rect x="417" y="272" width="62" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="448.0" y="289.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Linux</text>
+<rect x="487" y="272" width="83" height="26" rx="13" fill="#1e293b" stroke="#334155"/>
+<text x="528.5" y="289.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">Power BI</text>
+</svg>
