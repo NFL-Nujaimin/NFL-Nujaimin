@@ -62,3 +62,4 @@
 ## Let's connect
 
 I'm always happy to talk about medical AI, federated learning or ML engineering roles.
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/naufalnujaimin)
