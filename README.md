@@ -15,7 +15,7 @@
 
 ## About me
 
-- 🔬 **Research at Tohoku University:** making federated learning for mammography diagnosis more **explainable and trustworthy**, so hospitals can train models together without sharing patient data.
+- 🔬 **Research at Tohoku University:** Research on the Intersection of *Federated Learning* and *Explainable AI (XAI)* for Medical Industries
 - 💻 **1.5 years as a full-stack web developer** at Willowglen, building and extending industrial software products (Sep 2024 – Mar 2026).
 - 🤖 **AI software engineer (freelance)** at IntelliLabs AI, building AI-powered software for clients (2024 – 2025).
 - 🔧 **Software engineering intern** at NXP Malaysia, where I led an internal calibration system and equipment monitoring dashboards.
