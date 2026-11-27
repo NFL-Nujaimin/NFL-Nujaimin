@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  🔬 <b>Explainable &amp; federated learning for medical imaging</b> at Tohoku University<br>
+  🔬 <b>Master’s in Information Sciences Student</b> at Tohoku University<br>
   💼 Open to <b>ML Engineer</b>, <b>Research Engineer</b> and <b>AI Research Intern</b> roles · Japan · Malaysia · Remote
 </p>
 
