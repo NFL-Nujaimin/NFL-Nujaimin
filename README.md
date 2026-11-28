@@ -49,18 +49,6 @@
       <code>Python</code> <code>TensorFlow/Keras</code> <code>scikit-learn</code> <code>pandas</code>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/NFL-Nujaimin/newspaper-delivery">🗞️ Newspaper delivery app</a></h3>
-      Offline-first PWA built for real delivery routes: map navigation, route progress and on-device data only. <a href="https://nfl-nujaimin.github.io/newspaper-delivery/">Live demo</a><br><br>
-      <code>JavaScript</code> <code>PWA</code> <code>Service Worker</code> <code>Leaflet</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/NFL-Nujaimin/ActiveTen-Mobile-Application">🏃 ActiveTen fitness app</a></h3>
-      Cross-platform mobile app for 10-minute workouts, with progress tracking and calorie estimates.<br><br>
-      <code>C#</code> <code>.NET MAUI</code> <code>Firebase</code>
-    </td>
-  </tr>
 </table>
 
 ## Tech stack
