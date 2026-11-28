@@ -10,12 +10,13 @@
 
 <p align="center">
   <a href="mailto:naufal.bin.nujaimin.r1@dc.tohoku.ac.jp"><img alt="Email" src="https://img.shields.io/badge/Email-0F172A?style=flat-square"></a>
+  <a href="https://nfl-nujaimin.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-nfl--nujaimin.github.io-0D9488?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/naufalnujaimin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## About me
 
-- 🔬 **Research at Tohoku University:** Research on the Intersection of *Federated Learning* and *Explainable AI (XAI)* for Medical Industries
+- 🔬 **Research at Tohoku University:** the intersection of *Federated Learning* and *Explainable AI (XAI)* for the medical industry.
 - 💻 **1.5 years as a full-stack web developer** at Willowglen, building and extending industrial software products (Sep 2024 – Mar 2026).
 - 🤖 **AI software engineer (freelance)** at IntelliLabs AI, building AI-powered software for clients (2024 – 2025).
 - 🔧 **Software engineering intern** at NXP Malaysia, where I led an internal calibration system and equipment monitoring dashboards.
