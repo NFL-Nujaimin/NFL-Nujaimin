@@ -26,6 +26,13 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/NFL-Nujaimin/federated-learning-medmnist">🏥 Federated learning on medical images: FedAvg vs FedProx</a></h3>
+      Reproducible benchmark with 10 simulated hospitals training a CNN on PathMNIST (colorectal histology) under IID and non-IID (Dirichlet) splits. Non-IID data cuts FedAvg accuracy from 85.9% to 81.7%, and in the most skewed case FedProx recovers 1.3 points and halves the round-to-round variance.<br><br>
+      <code>Flower</code> <code>PyTorch</code> <code>Federated Learning</code> <code>MedMNIST</code> <code>pytest</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/NFL-Nujaimin/Sentiment-Analysis-of-IOI-Restaurant-Review">💬 Restaurant review sentiment analysis</a></h3>
       End-to-end NLP pipeline: scraped 2,500+ Google reviews, then sentiment classification (TextBlob vs VADER, 80% accuracy), LDA topic modelling and a Power BI dashboard.<br><br>
@@ -51,7 +58,7 @@
   </tr>
 </table>
 
-**🚧 Currently building:** a federated learning benchmark (Flower + PyTorch, FedAvg vs FedProx on non-IID medical images) and an explainable chest X-ray classifier (Grad-CAM vs Integrated Gradients, with a live demo).
+**🚧 Currently building:** an explainable chest X-ray classifier (Grad-CAM vs Integrated Gradients, with a live demo).
 
 ## Tech stack
 
