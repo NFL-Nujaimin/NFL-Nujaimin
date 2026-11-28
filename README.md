@@ -27,6 +27,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/NFL-Nujaimin/federated-learning-medmnist">🏥 Federated learning on medical images</a></h3>
+      FedAvg vs FedProx across 10 simulated hospitals on PathMNIST, under IID and non-IID (Dirichlet) splits. Non-IID data cuts accuracy from 85.9% to 81.7%, and in the most skewed case FedProx recovers 1.3 points and halves the variance.<br><br>
+      <code>Flower</code> <code>PyTorch</code> <code>Federated Learning</code> <code>MedMNIST</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NFL-Nujaimin/explainable-pneumonia-classifier">🩻 Explainable pneumonia classifier</a></h3>
+      ResNet-18 on chest X-rays (PneumoniaMNIST, test AUC 0.976), with Grad-CAM and Integrated Gradients compared by a deletion-curve faithfulness test: Grad-CAM wins clearly (0.390 vs 0.533). <a href="https://huggingface.co/spaces/NFL-Nujaimin/explainable-pneumonia-classifier">Live demo</a><br><br>
+      <code>PyTorch</code> <code>Captum</code> <code>Grad-CAM</code> <code>ONNX</code> <code>Hugging Face</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/NFL-Nujaimin/Sentiment-Analysis-of-IOI-Restaurant-Review">💬 Restaurant review sentiment analysis</a></h3>
       End-to-end NLP pipeline: scraped 2,500+ Google reviews, then sentiment classification (TextBlob vs VADER, 80% accuracy), LDA topic modelling and a Power BI dashboard.<br><br>
       <code>Python</code> <code>NLTK</code> <code>scikit-learn</code> <code>Selenium</code> <code>Power BI</code>
@@ -50,8 +62,6 @@
     </td>
   </tr>
 </table>
-
-**🚧 Currently building:** a federated learning benchmark (Flower + PyTorch, FedAvg vs FedProx on non-IID medical images) and an explainable chest X-ray classifier (Grad-CAM vs Integrated Gradients, with a live demo).
 
 ## Tech stack
 
